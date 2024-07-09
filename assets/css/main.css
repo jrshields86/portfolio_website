@@ -2443,3 +2443,8 @@ input, select, textarea {
 					}
 
 	}
+	
+	.devLogoImages {
+		width: 100px;
+		height: 100px;
+	}
