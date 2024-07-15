@@ -2023,7 +2023,7 @@ input, select, textarea {
 			.wrapper.style4 form select,
 			.wrapper.style4 form textarea {
 				border: none;
-				background: #282828;
+				background: white;
 			}
 
 				.wrapper.style4 form input[type=text]:focus,
